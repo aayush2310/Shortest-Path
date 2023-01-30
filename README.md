@@ -10,7 +10,5 @@ An interactive HTML5 canvas graph where the edge weights are the euclidean pixel
 
 Playable at http://www.lettier.com/shortest_path/.  
  
-_(C) 2014 David Lettier._  
-http://www.lettier.com/
 
 
